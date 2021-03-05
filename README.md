@@ -3,9 +3,11 @@
 BDD (Behavior Driven Development)
 
 
-## Getting Started
+## Behavior Driven Development
 
-
+Given – dado um contexto;
+When – quando acontecer um evento;
+Then – então se espera que aconteça algo.
 
 ### Prerequisites
 

@@ -1,0 +1,20 @@
+{
+  "name": "3_BDD_TS_CA",
+  "version": "1.0.0",
+  "description": "BDD (Behavior Driven Development)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlinsdev/BDD_CA_TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlinsdev/BDD_CA_TS/issues"
+  },
+  "homepage": "https://github.com/rlinsdev/BDD_CA_TS#readme"
+}
